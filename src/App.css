@@ -1,0 +1,19 @@
+body {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  place-items: center;
+  padding: 20PX;
+  text-align: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+  width: 100vw;
+
+ 
+}
+.signup-footer{
+  display: flex;
+  flex-direction: row;
+  gap :50px;
+}
